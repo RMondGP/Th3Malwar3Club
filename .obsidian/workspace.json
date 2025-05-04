@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "push",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be63e77611e57943",
+  "active": "3aeba341af6ef9d7",
   "lastOpenFiles": [
     "Readme.md",
     "_config.yml.md"
