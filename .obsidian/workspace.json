@@ -11,14 +11,10 @@
             "id": "8ca7a367a6d4f7ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_config.yml.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_config.yml"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,9 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aeba341af6ef9d7",
+  "active": "be63e77611e57943",
   "lastOpenFiles": [
-    "Readme.md",
-    "_config.yml.md"
+    "_config.yml.md",
+    "_config.yml",
+    "Readme.md"
   ]
 }
