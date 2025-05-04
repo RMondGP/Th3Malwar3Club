@@ -536,7 +536,7 @@ html {
 
     * {
         overflow: hidden;
-        text-wrap-mode: nowrap;
+        text-rendering: nowrap;
         text-overflow: ellipsis;
     }
   }
