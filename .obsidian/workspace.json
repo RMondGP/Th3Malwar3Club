@@ -176,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ca7a367a6d4f7ef",
+  "active": "5f8377fca3b154ae",
   "lastOpenFiles": [
+    "Gemfile.lock",
     "Readme.md",
     "_config.yml.md",
     "_config.yml"
