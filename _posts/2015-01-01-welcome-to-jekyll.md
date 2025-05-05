@@ -29,6 +29,11 @@ The first thing you may need to do is get a [GitHub](https://github.com/) accoun
 
 ## Step 1. Create a GitHub repository
 
+1. Click on the **+** icon in the top-right corner and select **New repository**.
+2. Name your repository **`username.github.io`** (replace `username` with your GitHub username).
+3. Set the repository to **Public** (GitHub Pages only works for public repositories on free accounts).
+4. Click **Create repository**.
+
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
