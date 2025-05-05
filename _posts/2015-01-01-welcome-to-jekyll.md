@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: "assets/images/banne"
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -63,7 +63,11 @@ wsl --install -d Ubuntu
 ```
 2. Reboot before installation is complete
 3. Once back, type WSL in Windows search
-4. A terminal with start a virtualized ubuntu se
+4. A terminal with start a virtualized ubuntu session
+5. In terminal window update and install git
+```bash
+apt install git
+```
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
