@@ -173,7 +173,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ca7a367a6d4f7ef",
+  "active": "5f8377fca3b154ae",
   "lastOpenFiles": [
     "_posts/2015-02-28-test-markdown.md",
     "_posts/2015-01-01-welcome-to-jekyll.md",
