@@ -54,7 +54,9 @@ Now setting up a vault is just a fancy word for creating a folder where you will
 There is variety of ways to go about using GIT, I began with GIT for Windows which a total pain in the behind since it just opens up its own terminal and has its own environment. I had to trouble shoot a lot of things. I eventually went on to using Windows Subsystem for Linux with an Ubuntu instance.
 
 1. Install Git for Windows from Website or install WSL via powershell
-		'''bash wsl --install -d Ubuntu'''
+		```bash
+		wsl --install -d Ubuntu
+		```
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
