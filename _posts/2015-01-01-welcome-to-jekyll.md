@@ -27,6 +27,7 @@ Before we begin, please be aware that you need to understand some coding concept
 
 The first thing you may need to do is get a [GitHub](https://github.com/) account. They have a free account and the GitHub pages is free. Note: GitHub pages must be public.
 
+## Step 1. Create a GitHub repository
 
 
 
