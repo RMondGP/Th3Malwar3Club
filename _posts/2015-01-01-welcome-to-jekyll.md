@@ -23,9 +23,9 @@ sidebar: []
 
 # Getting Started
 
-Before we begin, please be aware that you need to understand some coding concepts and a little of website coding, such as css, html, js  etc... to to potentially get this to work the way I did. 
+Before we begin, please be aware that you need to understand some coding concepts and a little of website coding, such as CSS, HTML, or JS to potentially get this to work the way I did. 
 
-The first thing you may need to do is get a [Github](https://github.com/) account. They have a free account and the github pages is free. Note: github pages must be public, so if y
+The first thing you may need to do is get a [GitHub](https://github.com/) account. They have a free account and the GitHub pages is free. Note: GitHub pages must be public
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
