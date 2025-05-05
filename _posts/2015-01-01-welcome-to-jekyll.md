@@ -46,7 +46,8 @@ The first thing you may need to do is get a [GitHub](https://github.com/) accoun
 Now setting up a vault is just a fancy word for creating a folder where you will place all your files. Instead of creating a folder through Obsidian, I went ahead and creating a folder in the place I wanted on my computer which was my D: drive.
 
 1. Pick a location for your folder and name it the same as your GitHub repo
-2. 
+2. Open Obsidian and click open folder as vault
+3. 
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
