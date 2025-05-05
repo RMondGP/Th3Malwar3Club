@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
+title: Creating Github-Page is a Pain
+subtitle: My method of getting this site to work.
+author: RMondGP
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
@@ -20,6 +20,9 @@ tags: jekyll theme yat
 top: 1
 sidebar: []
 ---
+
+# Getting Started
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

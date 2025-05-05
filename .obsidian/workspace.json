@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2015-01-01-welcome-to-jekyll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2015-01-01-welcome-to-jekyll"
             }
           }
         ]
@@ -176,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f8377fca3b154ae",
+  "active": "8ca7a367a6d4f7ef",
   "lastOpenFiles": [
+    "README.md",
     "Gemfile.lock",
     "assets/images/banners/home.jpg",
     "_site/assets/images/banners/home.jpg",
