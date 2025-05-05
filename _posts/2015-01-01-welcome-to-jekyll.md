@@ -38,6 +38,8 @@ The first thing you may need to do is get a [GitHub](https://github.com/) accoun
 
 ## Step 2: Download Obsidian
 
+1. Go to the [Obsidian Website]
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
