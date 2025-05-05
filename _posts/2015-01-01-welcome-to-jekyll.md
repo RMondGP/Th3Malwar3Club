@@ -34,7 +34,7 @@ The first thing you may need to do is get a [GitHub](https://github.com/) accoun
 3. Set the repository to **Public** (GitHub Pages only works for public repositories on free accounts).
 4. Click **Create repository**.
 
->		**Mind you my repository name is just the Th3Malwar3Club**
+>**Mind you my repository name is just the Th3Malwar3Club**
 
 ## Step 2: Download Obsidian
 
@@ -49,6 +49,7 @@ Now setting up a vault is just a fancy word for creating a folder where you will
 2. Open Obsidian and click open folder as vault
 3.  This will open the vault up as a directory for adding notes etc...
 
+## Step 4: Installing GIT
 
 
 
