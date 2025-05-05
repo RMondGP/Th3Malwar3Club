@@ -23,6 +23,8 @@ sidebar: []
 
 # Getting Started
 
+Before we begin, please be aware that you need to understand some coding concepts and a little of website coding, such as css, html, js  etc... to to potentially get this to work the wa
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
