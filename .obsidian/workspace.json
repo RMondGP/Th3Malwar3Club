@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2017-06-10-quick-mardown-example.md",
+                "file": "_posts/2015-01-01-welcome-to-jekyll.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2017-06-10-quick-mardown-example"
+              "title": "2015-01-01-welcome-to-jekyll"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2017-06-10-quick-mardown-example.md",
+                "file": "_posts/2015-01-01-welcome-to-jekyll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2017-06-10-quick-mardown-example"
+              "title": "Outline of 2015-01-01-welcome-to-jekyll"
             }
           },
           {
@@ -191,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f8377fca3b154ae",
+  "active": "8ca7a367a6d4f7ef",
   "lastOpenFiles": [
+    "_posts/2017-06-10-quick-mardown-example.md",
     "_posts/2015-02-28-test-markdown.md",
     "_posts/2015-01-01-welcome-to-jekyll.md",
     "_posts/2017-12-04-plantuml-example.md",
