@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_posts/2015-01-01-welcome-to-jekyll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2015-01-01-welcome-to-jekyll"
             }
           },
           {
@@ -163,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 787.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ca7a367a6d4f7ef",
+  "active": "5f8377fca3b154ae",
   "lastOpenFiles": [
     "README.md",
     "Gemfile.lock",
