@@ -15,7 +15,7 @@
               "state": {
                 "file": "_posts/2015-01-01-welcome-to-jekyll.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2015-01-01-welcome-to-jekyll"
@@ -89,6 +89,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a4c88ce89200075c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2015-01-01-welcome-to-jekyll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2015-01-01-welcome-to-jekyll"
+            }
+          },
+          {
             "id": "ff714580647252cf",
             "type": "leaf",
             "state": {
@@ -159,12 +173,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 787.5
+    "width": 913.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f8377fca3b154ae",
+  "active": "8ca7a367a6d4f7ef",
   "lastOpenFiles": [
     "README.md",
     "Gemfile.lock",
