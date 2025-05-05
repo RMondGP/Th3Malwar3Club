@@ -38,7 +38,12 @@ The first thing you may need to do is get a [GitHub](https://github.com/) accoun
 
 ## Step 2: Download Obsidian
 
-1. Go to the [Obsidian Website]
+1. Go to the [Obsidian Website](https://obsidian.md/) 
+2. Download and install the specific version for your machine
+
+## Step 3: Setting up a Vault
+
+Now setting up a vault is just a fancy word for creating a folder where you will place all your files. Instead of creating a folder throu
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
