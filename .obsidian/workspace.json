@@ -35,8 +35,7 @@
               "title": "2025-05-05-Unmasking AutoIt Malware"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ea83137acd6522e",
+  "active": "8ca7a367a6d4f7ef",
   "lastOpenFiles": [
+    "_posts/2025-05-05-Unmasking AutoIt Malware.md",
     "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
     "assets/images/banners/blog_post2_gemini_generated.jpg",
-    "_posts/2025-05-05-Unmasking AutoIt Malware.md",
     "_site/assets/images/banners/blog_post2_gemini_generated.jpg",
     "Gemfile.lock",
     "_site/jekyll/2025/05/04/Creating-a-GitHub-Page-is-a-Pain.html",
