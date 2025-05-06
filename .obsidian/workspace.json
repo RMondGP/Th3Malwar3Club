@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-04- Creating a GitHub-Page is a Pain.md",
+                "file": "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-05-04- Creating a GitHub-Page is a Pain"
+              "title": "2025-05-04-Creating a GitHub-Page is a Pain"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-05-05-Unmasking AutoIt Malware.md",
+                "file": "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-05-05-Unmasking AutoIt Malware"
+              "title": "2025-05-04-Creating a GitHub-Page is a Pain"
             }
           }
         ],
@@ -208,8 +208,8 @@
   },
   "active": "0ea83137acd6522e",
   "lastOpenFiles": [
-    "_posts/2025-05-04- Creating a GitHub-Page is a Pain.md",
     "_posts/2025-05-05-Unmasking AutoIt Malware.md",
+    "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
     "_site/assets/images/banners/blog_post2_gemini_generated.jpg",
     "Gemfile.lock",
     "_site/jekyll/2025/05/04/Creating-a-GitHub-Page-is-a-Pain.html",
