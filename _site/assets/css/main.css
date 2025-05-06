@@ -344,6 +344,7 @@ html[data-scroll-status=down] .framework .sidebar {
   display: inline-block;
   height: 42.56px;
   margin-right: 5px;
+  font-size: 40px;
 }
 
 .site-nav {
