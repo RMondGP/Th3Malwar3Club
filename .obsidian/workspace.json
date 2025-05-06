@@ -183,7 +183,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ca7a367a6d4f7ef",
+  "active": "5f8377fca3b154ae",
   "lastOpenFiles": [
     "_posts/2025-05-05-Unmasking AutoIt Malware.md",
     "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
