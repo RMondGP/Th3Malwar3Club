@@ -347,7 +347,7 @@ html[data-scroll-status=down] .framework .sidebar {
 }
 
 .site-favicon {
-  font-size: larger;
+  font-size: larger !important;
   
 
 }
