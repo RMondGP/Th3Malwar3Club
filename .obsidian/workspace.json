@@ -106,14 +106,10 @@
             "id": "a4c88ce89200075c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-05-04- Creating a GitHub-Page is a Pain.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-04- Creating a GitHub-Page is a Pain"
+              "title": "New tab"
             }
           },
           {
@@ -187,8 +183,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +202,8 @@
   },
   "active": "8ca7a367a6d4f7ef",
   "lastOpenFiles": [
-    "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
     "_posts/2025-05-05-Unmasking AutoIt Malware.md",
+    "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
     "assets/images/banners/blog_post2_gemini_generated.jpg",
     "_site/assets/images/banners/blog_post2_gemini_generated.jpg",
     "Gemfile.lock",
