@@ -188,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f8377fca3b154ae",
+  "active": "be63e77611e57943",
   "lastOpenFiles": [
     "_posts/2025-05-05-Unmasking AutoIt Malware.md",
     "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
