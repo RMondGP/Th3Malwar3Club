@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386.5
   },
   "right": {
     "id": "898771ed5d9ccaee",
@@ -203,8 +203,9 @@
   },
   "active": "8ca7a367a6d4f7ef",
   "lastOpenFiles": [
-    "assets/images/Pasted.md",
+    "_site/assets/images/Pasted_image_20250513195037.png",
     "_posts/2025-05-04-Creating a GitHub-Page is a Pain.md",
+    "assets/images/Pasted.md",
     "_posts/2025-05-05-Unmasking AutoIt Malware.md",
     "'assets/images/Pasted.md",
     "'assets/images",
@@ -220,7 +221,6 @@
     "assets/images/Pasted_image_20250513195951.png",
     "assets/images/Pasted_image_20250513195454.png",
     "assets/images/banners/blog_3_gemini_generated.jpg",
-    "assets/images/banners/blog_post2_gemini_generated.jpg",
     "Gemfile.lock",
     "_site/jekyll/2025/05/04/Creating-a-GitHub-Page-is-a-Pain.html",
     "_site/jekyll/2025/05/04",
