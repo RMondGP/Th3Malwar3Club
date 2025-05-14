@@ -41,6 +41,7 @@ Once you're signed in, create a new repository:
 4. Hit **Create repository**.
 
 >**Mind you my repository name is just the Th3Malwar3Club**
+
 ## Step 2: Download Obsidian
 
 If you don't have it already, head over to the [Obsidian website](https://obsidian.md/) and download the version for your operating system. Install it like any other application.
@@ -51,7 +52,6 @@ Think of an Obsidian "vault" as just a folder where all your notes and files liv
 1. Choose a spot on your computer for this folder. A good idea is to name it the same as your GitHub repo (`yourusername.github.io`) for consistency.
 2. Open Obsidian. Instead of creating a new vault, choose **Open folder as vault**.
 3. Navigate to and select the folder you just created. Now Obsidian is ready to work with your files in that location.
-
 ## Step 4: Installing GIT
 
 Git is the tool that connects your local files to your GitHub repository. There are various methods to using Git and I began this `Git for Windows` and later moved to using Windows Subsystem for Linux or `WSL` because it was more effective. 
@@ -66,6 +66,7 @@ This enable WSL and installs a virtualized default Ubuntu distribution.
 3. Once back, type WSL in Windows search
 4. A terminal with start a virtualized ubuntu session
 5. In terminal window update and install git
+
 ```bash
 sudo apt update
 sudo apt install git
@@ -78,7 +79,7 @@ Now that Git is installed in your WSL environment, navigate to your Obsidian vau
 
 Using WSL navigate to the folder created for your vault
 
-```shell
+```bash
 cd /mnt/<drive letter>/<path to vault>
 
 #example cd /mnt/d/Th3Malwar3Club
@@ -87,7 +88,7 @@ cd /mnt/<drive letter>/<path to vault>
 Once inside the vault, let's link it to your Github repository:
 **Note: these commands should be on the main page once you create your repo**
 
-```shell
+```bash
 git remote add origin https://github.com/RMondGP/Th3Malwar3Club.git
 git branch -M main
 git push -u origin main
@@ -108,16 +109,17 @@ git push --force origin main
 ```
 
 After running these commands successfully in your WSL terminal, your local folder is now a Git repository connected to GitHub! You've done the heavy lifting.
-
 ## Step 6: Sync with Obsidian's Git Plugin
 
 To make future syncing super easy, install the Git plugin within Obsidian:
-
 1. Open up Obsidian
 2. Click Open folder as Vault
 3. Click the folder you created for the vault `username.github.io`
 4. Once opened,  go to settings by clicking the gear to the right of your folder
-![[Pasted image 20250513195037.png]]
+
+{% asset Pasted image 20250513195037.png %}
+
+![]("assets/images/Pasted image 20250513195037.png")![[Pasted image 20250513195037.png]]
 5. Navigate to community plugins where it should be restricted, accept the risk
 6. Browse for plugins
  
