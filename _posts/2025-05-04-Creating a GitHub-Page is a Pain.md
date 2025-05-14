@@ -121,6 +121,8 @@ To make future syncing super easy, install the Git plugin within Obsidian:
 ![settings](assets/images/Pasted_image_20250513195037.png)
 
 
+![](https://github.com/RMondGP/Th3Malwar3Club/blob/main/assets/images/Pasted_image_20250513195037.png)
+
 
 ![[Pasted_image_20250513195037.png]]
 5. Navigate to community plugins where it should be restricted, accept the risk
