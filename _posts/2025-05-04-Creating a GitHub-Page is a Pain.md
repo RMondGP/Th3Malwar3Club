@@ -117,8 +117,6 @@ To make future syncing super easy, install the Git plugin within Obsidian:
 3. Click the folder you created for the vault `username.github.io`
 4. Once opened,  go to settings by clicking the gear to the right of your folder
 
-{% assets Pasted image 20250513195037.png %}
-
 ![]("assets/images/Pasted image 20250513195037.png")![[Pasted image 20250513195037.png]]
 5. Navigate to community plugins where it should be restricted, accept the risk
 6. Browse for plugins
