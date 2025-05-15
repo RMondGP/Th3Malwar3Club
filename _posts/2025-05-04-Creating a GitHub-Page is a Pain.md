@@ -118,11 +118,11 @@ To make future syncing super easy, install the Git plugin within Obsidian:
 3. Click the folder you created for the vault `username.github.io`
 4. Once opened,  go to settings by clicking the gear to the right of your folder
 
-![banner](/assets/images/Pasted_image_20250513195037.png)
+<img src="{{ 'assets/images/Pasted_image_20250513195037.png' | relative_url}}">
 
 
 
-![image](/assets/images/Pasted_image_20250513195037.png)
+![image](/Th3Malwar3Club/assets/images/Pasted_image_20250513195037.png)
 5. Navigate to community plugins where it should be restricted, accept the risk
 6. Browse for plugins
  
